@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hola, bienvenido a mi GitHub 👋
 
-<!--
-**AeroAlvaro/AeroAlvaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Álvaro, un apasionado desarrollador de software y técnico en sistemas con experiencia en el desarrollo de aplicaciones multiplataforma y gestión de redes.
 
-Here are some ideas to get you started:
+### Sobre mí 💬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente, estoy cursando un grado superior en Desarrollo de Aplicaciones Multiplataforma y he sido certificado como Técnico en Sistemas Microinformáticos y Redes. Me apasiona aprender sobre las nuevas tecnologías y aplicar mis conocimientos en proyectos estimulantes.
+
+### Habilidades :computer:
+
+- Desarrollo de aplicaciones multiplataforma.
+- Configuración y mantenimiento de redes.
+- Resolución de problemas técnicos en entornos microinformáticos.
+
+### Contacto
+
+¡Me encantaría colaborar en proyectos emocionantes! Si estás interesado en trabajar juntos, no dudes en ponerte en contacto conmigo a través de este email: aeroalvarolopez@gmail.com
+
+### Educación
+
+- Grado Superior en Desarrollo de Aplicaciones Multiplataforma (en curso)
+- Grado Medio en Sistemas Microinformáticos y Redes (certificado)
