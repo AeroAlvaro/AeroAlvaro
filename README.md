@@ -1,4 +1,4 @@
-# Hola, bienvenido a mi GitHub 👋
+# Hola, bienvenid@ a mi GitHub 👋
 
 ¡Hola! Soy Álvaro, un apasionado desarrollador de software y técnico en sistemas con experiencia en el desarrollo de aplicaciones multiplataforma y gestión de redes.
 
